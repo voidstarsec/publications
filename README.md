@@ -9,7 +9,7 @@ Talks and Links to Previous Work
   - [Code and Resources](https://github.com/voidstarsec/fi-resources)
   - [PDF Slides](https://github.com/voidstarsec/csw-2024/blob/gh-pages/csw.pdf)
 
-- [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://wrongbaud.github.io/sf-slides)
+- [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://wrongbaud.github.io/replicant-slides)
   - [Code and Resources](https://github.com/wrongbaud/replicant)
 
 
