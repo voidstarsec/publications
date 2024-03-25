@@ -5,7 +5,7 @@
   <img src="https://github.com/voidstarsec/hw-hacking-lab/blob/main/assets/images/logo.png" alt="VSS Logo" style="width:400px"/>
 </p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/voidstarsec/hw-hacking-lab) ![GitHub forks](https://img.shields.io/github/forks/voidstarsec/hw-hacking-lab)
+![GitHub Repo stars](https://img.shields.io/github/stars/voidstarsec/publications) ![GitHub forks](https://img.shields.io/github/forks/voidstarsec/publications)
 
 ---
 
