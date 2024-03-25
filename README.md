@@ -15,11 +15,11 @@ Here you will find a list of talks given by VoidStar Security, for more technica
 
 ## Fault Injection
 
-- [CanSecWest 2024 - Glitching in 3D: Low-Cost EMFI Attacks, Part 1](https://voidstarsec.com/fi-resources)
+- [RingZer0 2024 - Glitching in 3D: Low-Cost EMFI Attacks, Part 1](https://voidstarsec.com/fi-resources)
   - [Code and Resources](https://github.com/voidstarsec/fi-resources)
   - [PDF Slides](https://github.com/voidstarsec/fi-resources/blob/main/slides.pdf)
 
-- [RingZer0 2024 - Glitching in 3D: Low-Cost EMFI Attacks, Part 2](https://voidstarsec.com/csw-2024)
+- [CanSecWest 2024 - - Glitching in 3D: Low-Cost EMFI Attacks, Part 2](https://voidstarsec.com/csw-2024)
   - [Code and Resources](https://github.com/voidstarsec/fi-resources)
   - [PDF Slides](https://github.com/voidstarsec/csw-2024/blob/gh-pages/csw.pdf)
 
